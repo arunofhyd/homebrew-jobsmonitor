@@ -1,6 +1,6 @@
 cask "jobsmonitor" do
-  version "2.3.4"
-  sha256 "8b52960d9335ad0a2f0e1d1adec5002070cb4f1e0c75f0c683f369ee5986ff17"
+  version "2.3.5"
+  sha256 "1f947eb10da756c6d677c73ba04a3c5e1f24ba0703944e575d32f9c1e779db2c"
 
   url "https://github.com/arunofhyd/JobsMonitor/releases/download/v#{version}/JobsMonitor.zip"
   name "Jobs Monitor"
